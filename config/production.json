@@ -1,0 +1,10 @@
+{
+  "mongoURI": "mongodb+srv://adminLA1:Ty2uD2ULHvWnaoIa@cluster0.dac4h.mongodb.net/joinAfricaDev?retryWrites=true&w=majority",
+  "jwtSecret": "jwtSecretToken",
+  "jwtExpiration": 360000,
+  "email": "joinafrik123@gmail.com",
+  "password": "xmplbetfcdxmetgn",
+  "host": "https://join-africa.herokuapp.com",
+  "stripePublishedKey": "pk_test_51JRS0bKt9b7v0qiWqMHNvTVeqE35un7ptZzpbk7z6i8QbwENjDZM5P8KjszelxxAbYX8ksFhISdVc20PcEL0JmAQ00J10pE31R",
+  "stripeSecretKey": "sk_test_51JRS0bKt9b7v0qiWwl5Mm8gcLRcqavWAWOJFVOoM1WsuxITLTZ9VYb5Qe3UqHHCpgrUtgBEndCV4CkZyEi1sR0H700PmsTjq8t"
+}

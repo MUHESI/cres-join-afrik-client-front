@@ -1,0 +1,18 @@
+{
+    "mongoURI": "mongodb+srv://adminLA1:Ty2uD2ULHvWnaoIa@cluster0.dac4h.mongodb.net/joinAfricaTest?retryWrites=true&w=majority",
+    "jwtSecret": "jwtSecretToken",
+    "jwtExpiration": 360000,
+    "email": "joinafrik123@gmail.com",
+    "password": "xmplbetfcdxmetgn",
+    "host": "http://localhost:5005",
+    "stripePublishedKey": "pk_test_51JRS0bKt9b7v0qiWqMHNvTVeqE35un7ptZzpbk7z6i8QbwENjDZM5P8KjszelxxAbYX8ksFhISdVc20PcEL0JmAQ00J10pE31R",
+	"stripeSecretKey": "sk_test_51JRS0bKt9b7v0qiWwl5Mm8gcLRcqavWAWOJFVOoM1WsuxITLTZ9VYb5Qe3UqHHCpgrUtgBEndCV4CkZyEi1sR0H700PmsTjq8t",
+	"mongoURITestUser": "mongodb://127.0.0.1:27017/linkAfricaTestUser",
+	"mongoURITestJob": "mongodb://127.0.0.1:27017/linkAfricaTestJob",
+	"mongoURITestNotification": "mongodb://127.0.0.1:27017/linkAfricaTestNotification",
+	"mongoURITestOrga": "mongodb://127.0.0.1:27017/linkAfricaTestOrga",
+	"mongoURITestPayment": "mongodb://127.0.0.1:27017/linkAfricaTestPayment",
+	"mongoURITestProfile": "mongodb://127.0.0.1:27017/linkAfricaTestProfile",
+	"mongoURITestRate": "mongodb://127.0.0.1:27017/linkAfricaTestRate",
+	"mongoURITestService": "mongodb://127.0.0.1:27017/linkAfricaTestService"
+}

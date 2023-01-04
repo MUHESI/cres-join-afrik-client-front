@@ -1,0 +1,99 @@
+  body {
+            position: relative;
+            color: #312a2a;
+            border:blue;
+        }
+
+        .contentMain {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            padding: 0px;
+            max-width: 500px;
+            width: 100%;
+        }
+
+        .contentHeader {
+            text-align: center;
+        }
+
+        .contentHeader h4 {
+            padding: 0px;
+            margin: 0px;
+            font-size: 1.5em;
+            color: #a39b9b;
+        }
+
+        #logo {
+            height: 80px;
+            object-fit: cover;
+        }
+
+        .link-webSite {
+            text-decoration: none;
+        }
+
+        .contentDescription {
+            margin-left: 20px;
+        }
+        .contentDescription a {
+            text-decoration: none;
+            color: #1b00a8;
+            padding: 2px;
+        }
+        .contentDescription .linkUser-client {
+            text-decoration: none;
+            transition: 0.2s;
+        }
+        .linkUser-client:hover {
+            transition: 0.2s;
+
+            color: #fff;
+            /* text-decoration: underline; */
+            background-color: #1b00a8;
+        }
+
+        .content-tilte-job {
+            text-align: center;
+            /* border: 1px solid #1B00A8; */
+            font-size: 1em;
+        }
+
+        .content-seeMore {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 0.5em;
+        }
+
+        .content-seeMore a {
+            font-size: 0.8em;
+            transition: 0.4s;
+            background-color: #1b00a8;
+            border: 1px solid #1b00a8;
+            padding: 4px 5px;
+            color: #fff;
+        }
+
+        .content-seeMore a:hover {
+            transition: 0.4s;
+            color: #1b00a8;
+            border: 1px solid #1b00a8;
+            background-color: #fff;
+            border-radius: 20px;
+        }
+
+        .content-footer {
+            border-top: 2px solid  #a39b9b;
+           padding:15px 0px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 0.5em;
+        }
+        .content-footer img {
+            height: 30px;
+        }

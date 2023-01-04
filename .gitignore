@@ -1,0 +1,23 @@
+node_modules/
+yarn-error.log
+.env
+.nyc_output
+coverage
+build/
+dist/
+.idea/
+.vscode/
+tmp/
+temp/
+/coverage/
+/.nyc_output/
+logs/
+
+# don't check in  env files
+.env.dev
+.env
+.env.local
+.env.prod
+.env.test
+.env.staging
+**/.DS_Store
